@@ -19,7 +19,7 @@ I explored how academic pressure, sleep duration, and city of residence relate t
 2.  🧮 **Google Sheets (Pivot Tables & Charts)**  
    Explore basic visualizations (no data cleaning here): https://docs.google.com/spreadsheets/d/1E0DbpkTGxCt6Y8v6OLTdoWv-I0fqdiy9N2oJH4gIRxw/edit?gid=1577555823#gid=1577555823
 3.  🐍 **Python Notebook (Google Colab)**  
-   All cleaning, preprocessing, and analysis were done in Python:https://colab.research.google.com/drive/1W4Nr92pVOkuGY8q-dq8_3FQlQ5hwvpFJ
+   All cleaning, preprocessing, and analysis were done in Python:https://github.com/ZhansayaNessipbek/Student-depression/blob/main/Student_depression.ipynb
 
 ## Key Insights
 
